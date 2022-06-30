@@ -19,6 +19,8 @@ nav:
    link: "/"
  - name: "Publication"
    link: "pub"
+ - name: "Notes"
+   link: "notes"
 
 
 
