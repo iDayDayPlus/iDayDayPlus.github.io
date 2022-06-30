@@ -26,7 +26,7 @@ Mixed-Signal Integrated Circuits Design, Bioelectronics and Biosensors, Neuromor
   - Bachelor of Engineering in Electronics, GPA: 89.5/100 [Transcript](https://hzk.dayday.plus/files/XJTU_transcript.pdf)
   - Thesis: *Digital Back-End Design of a  Battery State-of-Charge Estimation Algorithm Without Current Detection*
 
-- **McGill University**, Montreal Canada, 2018.06-208.09
+- **McGill University**, Montreal Canada, 2018.06-2018.09
   - MITACS Visiting Scholar
   - Topics: *Measurement of Thermal Noise Floor in Nitrogen Vacancy Centers*
 
