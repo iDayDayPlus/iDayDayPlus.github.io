@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="./imgs/photo.jpg">
 
-- I was born in Xianyang, China in 1997. I obtained my M.Sc. and B.Eng. from ETH Zurich and Xi'an Jiaotong University, respectively. I am a researcher working in cutting-edge integrated circuit and sensor technology. 
+- I was born in Xianyang, China in 1997. I obtained my M.Sc. and B.Eng. from ETH Zurich and Xi'an Jiaotong University, respectively. I am a researcher working in cutting-edge integrated circuits and sensor technology. 
 
 - You can find my publications on [Google Scholar](https://scholar.google.com/citations?user=SiProigAAAAJ&hl=en&oi=sra) or [Research Gate](https://www.researchgate.net/profile/Zhikai-Huang).
 
@@ -18,8 +18,8 @@ layout: default
 - Neuromorphic Computing and Maching Learning
 
 ## News
-- My master thesis work achieves 
-- My  [[pdf]](https://arxiv.org/pdf/2109.03810)
+- My master thesis *A Continuous-Time Input Pipelined SAR ADC with Predictive Offset Generation* conducted at Prof. Taekwang Jang's lab achieves a grade 5.75/6, the second-highest possible grade at ETH Zurich.
+- My co-author paper on event-based digital accelerator is accepted in DATE 2022 and is already online [IEEE Xplore](https://ieeexplore.ieee.org/document/9774552/)
 
 
 
