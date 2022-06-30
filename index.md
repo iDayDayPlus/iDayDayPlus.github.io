@@ -8,7 +8,7 @@ layout: default
 
 - I was born in Xianyang, China in 1997. I obtained my M.Sc. and B.Eng. from ETH Zurich and Xi'an Jiaotong University, respectively. I am a researcher working in cutting-edge integrated circuits and sensor technology. 
 
-- You can find my publications on [Google Scholar](https://scholar.google.com/citations?user=SiProigAAAAJ&hl=en&oi=sra) or [Research Gate](https://www.researchgate.net/profile/Zhikai-Huang).
+- You can find my publications on [Google Scholar](https://scholar.google.com/citations?user=SiProigAAAAJ&hl=en&oi=sra) or [Research Gate](https://www.researchgate.net/profile/Zhikai-Huang). A detailed CV can be find [here](https://hzk.dayday.plus/cv.html)
 
 
 ## Research Interest
