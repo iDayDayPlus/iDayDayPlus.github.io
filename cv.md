@@ -2,7 +2,7 @@
 
 ---
 
-E-mail: hzhikai97@gmail.com / Phone: +86 13335427158 / [Google Scholar](https://scholar.google.com/citations?user=SiProigAAAAJ&hl=en&oi=sra) / [Website](https://hzk.dayday.plus)
+E-mail: hzhikai97@gmail.com / Phone: +86 13335427158 / [Google Scholar](https://scholar.google.com/citations?user=SiProigAAAAJ&hl=en&oi=sra) / [Website](https://i.dayday.plus)
 
 &nbsp;
  
