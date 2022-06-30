@@ -46,25 +46,25 @@ Mixed-Signal Circuits Design, Bioelectronics and Biosensors, Neuromorphic Comput
 
 ---
 
-Integrated Systems Laboratory, ETH Zürich | Advisor: Prof. Taekwang Jang| 2021.11-2022.05
+Integrated Systems Lab, ETH Zürich | Advisor: Prof. Taekwang Jang| 2021.11-2022.05
 - **A Continuous-Time Input Pipelined SAR ADC With Predictive Offset Generation**
   - Designed a continuous-time input pipelined SAR ADC with reduced input capacitance, achieving 1.439 uW with 12.83 bits ENOB at 40kSPS, FoMw=4.95fJ/step and --FoMs=171.4dB
   -  Innovation 1: Analog prediction based on signal first and second order derivatives to limit residue signal swing  
   -  Innovation 2: The analog prediction is embedded in the SAR loop that is compact and power efficient
 
-Integrated Systems Laboratory, ETH Zürich | Advisor: Prof. Taekwang Jang| 2021.06-2022.11    
+Integrated Systems Lab, ETH Zürich | Advisor: Prof. Taekwang Jang| 2021.06-2022.11    
 - **A Low-Power, Low-Noise, High Linearity Acoustic Sensor Front-End**                          
   - Designed a 0.97 NEF 0.44uW, 20Hz-20kHz BW three-stage inverter-stacking based low noise amplifier
   - Designed a THD<1% large output-swing variable gain amplifier with cross-coupled capacitor bank
   - Designed a 8-bit synchronous SAR ADC Verilog-A model, estimate resolution limit with statistical modeling
 
-Integrated Systems Laboratory, ETH Zürich | Advisor: Prof. Taekwang Jang | 2021.3-2021.06 
+Integrated Systems Lab, ETH Zürich | Advisor: Prof. Taekwang Jang | 2021.3-2021.06 
 - **A High Linearity Chopper-Stabilized Amplifier for Closed-loop Neural Recording**
   - Designed a 4.27 uW neural recording chopper amplifier that is capable of handling in-band 80-mVpp differential artifacts and 650-mVpp common-mode artifacts
   - Designed the DC servo loop with multi duty-cycled resistors to achieve sub-Hz corner frequency
   - Designed the auxiliary path for the chopper amplifier that achieves 40.7X input impedance boosting
 
-Digital Circuits and Systems Lab, ETH Zurich | Advisor: Prof. Luca Benini | 2020.03-2020.6
+Digital Circuits Lab, ETH Zurich | Advisor: Prof. Luca Benini | 2020.03-2020.6
 - **Spiking Neural Network-based 3-DoF Pose Estimation for Event-based SoC**         
   - Implemented a convolutional spiking neural network capable of regressing an event camera’s 3 DoF angular velocity from its raw output stream, enabling ego-motion estimation
   - Proposed novel time-averaging regularization for neural network to improve the estimation accuracy
@@ -104,9 +104,13 @@ Sensors Research Group, ETH Zurich | Advisor: Prof. Tobi Delbruck | 2021.03-2021
 
 ---
 
+Prof. Dr. Taekwang Jang, Dept. of Information Technology and Electrical Engineering, ETH Zurich
+
 Prof. Dr. Luca Benini, Dept. of Information Technology and Electrical Engineering, ETH Zurich
 
 Prof. Dr. Tobi Delbruck, Institute of Neuroinformatics, ETH Zurich and University of Zurich
+
+
 
 
 &nbsp;
