@@ -6,9 +6,9 @@ layout: default
 
 <img class="profile-picture" src="./imgs/photo.jpg">
 
-- I am a researcher working in the low-power mixed-signal integrated circuit and systems. I am especailly interested in the circuit design for bioelectronics, neuromorphic computing, and sensor technology.
+- I was born in Xianyang, China in 1997. I obtained my M.Sc. and B.Eng. from ETH Zurich and Xi'an Jiaotong University, respectively. I am a researcher working in cutting-edge integrated circuit and sensor technology. 
 
-- You can find my publications on [Google Scholar]([https://scholar.google.com.hk/citations?user=7QvWnzMAAAAJ&hl=zh-CN](https://scholar.google.com/citations?user=SiProigAAAAJ&hl=en&oi=sra)) or [ResearchGate](https://www.researchgate.net/profile/Zhikai-Huang).
+- You can find my publications on [Google Scholar](https://scholar.google.com/citations?user=SiProigAAAAJ&hl=en&oi=sra) or [Research Gate](https://www.researchgate.net/profile/Zhikai-Huang).
 
 
 ## Research Interest
