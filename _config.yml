@@ -19,10 +19,10 @@ nav:
    link: "/"
  - name: "Publication"
    link: "pub"
- - name: "Talk"
-   link: "talk"
- - name: "Contact"
-   link: "contact"
+ - name: "Projects"
+   link: "proj"
+ - name: "Notes"
+   link: "note"
 
 
 theme: jekyll-theme-cayman
