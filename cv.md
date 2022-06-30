@@ -10,7 +10,7 @@ E-mail: hzhikai97@gmail.com / Phone: +86 13335427158 / [Google Scholar](https://
 
 ---
 
-Mixed-Signal Circuits Design, Bioelectronics and Biosensors, Neuromorphic Computing, etc.
+Mixed-Signal Integrated Circuits Design, Bioelectronics and Biosensors, Neuromorphic Computing, etc.
 
 &nbsp;
 
