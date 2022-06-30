@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Zhikai Huang, MSc
 ---
 
 ## About Me
