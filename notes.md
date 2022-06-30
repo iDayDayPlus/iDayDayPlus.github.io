@@ -3,15 +3,33 @@ layout: default
 is_contact: true
 ---
 
-# Lecture Notes/Series
-- Analog and RF Design Lectures
-  - Analog Integrated Circuits, ETHZ, Prof. Taekwang Jang
-  - Communication Electronics, ETHZ, Dr. Burger Thomas
-  - Energy Efficient Analog Integrated Circuits for IoT Systems, ETHZ, Prof. Taekwang Jang
-  - Analog-to-Digital Converter, ETHZ, Dr. Burger Thomas
-  - Analog Signal Processing and Filtering, ETHZ, Prof. Hanspeter Schmid
+These are important fundamental lectures I always review and helpful for my research. 
+
+# Lecture Series (Reference Lectures)
+- Analog Design Lectures
+  - Analog Integrated Circuits (ETHZ, Prof. Taekwang Jang)
+  - Energy Efficient Analog Integrated Circuits for IoT Systems (ETHZ, Prof. Taekwang Jang)
+  - Communication Electronics, (ETHZ, Dr. Burger Thomas)
+  - Analog-to-Digital Converter, (ETHZ, Dr. Burger Thomas)
+  - Analog Signal Processing and Filtering, (ETHZ, Prof. Hanspeter Schmid)
+
+- Digital Design Lectures
+  - VLSI and FPGA (ETHZ, Prof. Luca Benini)
+  - Digital Integrated Circuits (ETHZ, Prof. Studer Christoph)
+
+- Signal Processing Lectures
+  - Signal and System
+  - Digital Signal Processing (BJTU, Prof. Houjin Chen)
+
+- Device and Physics Lectures
+  - Semiconductor Physics
+  - Microelectronic Process Technology (ETHZ, Prof. Christofer Hierold)
+  - MEMS Device and Application (ETHZ, Prof. Christofer Hierold)
+
+- Neuromorphic and Machine Learning Lectures
+  - Neuromorphic Engineering (ETHZ, Prof. Tobi Delbruck)
+  - Introduction to Machine Learning (ETHZ, Prof. Andreas Krause)
 
 
-# External Lecture Series
- - [RFIC Design, UCI, Prof. Payam Heydari](https://www.youtube.com/watch?v=hGE224eqrQM&list=PLP6yairdYX8lTVS75hs5ommNwMYwq_mGr)
- - [Analog IC Design, Caltech, Prof. Ali Hajimiri](https://www.youtube.com/watch?v=403CnTftB4M&list=PLc7Gz02Znph-c2-ssFpRrzYwbzplXfXUT)
+
+
