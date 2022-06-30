@@ -19,10 +19,7 @@ nav:
    link: "/"
  - name: "Publication"
    link: "pub"
- - name: "Projects"
-   link: "proj"
- - name: "Notes"
-   link: "note"
+
 
 
 theme: jekyll-theme-cayman
