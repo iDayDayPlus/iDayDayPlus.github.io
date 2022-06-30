@@ -3,7 +3,7 @@ layout: default
 is_contact: true
 ---
 
-These are important fundamental lectures I always review and helpful for my research. 
+These are important fundamental lectures I always review and are helpful for my research. I took most courses at my master's degree at ETHZ, but there are also some courses I took from online resources. 
 
 # Lecture Series (Reference Lectures)
 - Analog Design Lectures
@@ -22,7 +22,7 @@ These are important fundamental lectures I always review and helpful for my rese
   - Digital Signal Processing (BJTU, Prof. Houjin Chen)
 
 - Device and Physics Lectures
-  - Semiconductor Physics
+  - Semiconductor Physics (FDU, Prof. Jiang Yulong)
   - Microelectronic Process Technology (ETHZ, Prof. Christofer Hierold)
   - MEMS Device and Application (ETHZ, Prof. Christofer Hierold)
 
