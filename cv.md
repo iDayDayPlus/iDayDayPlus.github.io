@@ -19,11 +19,11 @@ Mixed-Signal Integrated Circuits Design, Bioelectronics and Biosensors, Neuromor
 ---
 
 - **ETH Zurich**, Zurich Switzerland, 2019-2022
-  - Master of Science in Biomedical Engineering, GPA: 5.43/6.0 [Transcript](https://hzk.dayday.plus/files/eth_transcript.pdf)
+  - Master of Science in Biomedical Engineering, GPA: 5.43/6.0 [Transcript](https://i.dayday.plus/files/eth_transcript.pdf)
   - Thesis: *A Continuous-Time Input Pipelined SAR ADC With Predictive Offset Generation*
 
 - **Xi’an Jiaotong University**, Xi'an China, 2015-2019
-  - Bachelor of Engineering in Electronics, GPA: 89.5/100 [Transcript](https://hzk.dayday.plus/files/XJTU_transcript.pdf)
+  - Bachelor of Engineering in Electronics, GPA: 89.5/100 [Transcript](https://i.dayday.plus/files/XJTU_transcript.pdf)
   - Thesis: *Digital Back-End Design of a  Battery State-of-Charge Estimation Algorithm Without Current Detection*
 
 - **McGill University**, Montreal Canada, 2018.06-2018.09
