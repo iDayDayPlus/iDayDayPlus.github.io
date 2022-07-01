@@ -22,6 +22,5 @@ title: Zhikai Huang, MSc
 - My master thesis *A Continuous-Time Input Pipelined SAR ADC with Predictive Offset Generation* conducted at Prof. Taekwang Jang's lab achieves a grade of 5.75/6, the second-highest possible grade at ETH Zurich.
 - My co-author paper on event-based digital accelerator is accepted in DATE 2022 and is already online [IEEE Xplore](https://ieeexplore.ieee.org/document/9774552/)
 
-<a href="https://info.flagcounter.com/1Ohq"><img src="https://s01.flagcounter.com/count/1Ohq/bg_FFFFFF/txt_000000/border_CCCCCC/columns_4/maxflags_12/viewers_0/labels_0/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0" width="20%"></a>
 
 
