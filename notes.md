@@ -17,7 +17,7 @@ These are important fundamental lectures I always review and are helpful for my 
   - Digital Integrated Circuits (ETHZ, Prof. Studer Christoph)
 
 - Signal Processing Lectures
-  - Signal and System
+  - Signal and System (BUPT)
   - Digital Signal Processing (BJTU, Prof. Houjin Chen)
   - Analog Signal Processing and Filtering, (ETHZ, Prof. Hanspeter Schmid)
 
