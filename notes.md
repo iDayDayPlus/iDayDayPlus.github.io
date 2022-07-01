@@ -23,8 +23,8 @@ These are important fundamental lectures I always review and are helpful for my 
 
 - Device and Physics Lectures
   - Semiconductor Physics (FDU, Prof. Jiang Yulong)
-  - Microelectronic Process Technology (ETHZ, Prof. Christofer Hierold)
-  - MEMS Device and Application (ETHZ, Prof. Christofer Hierold)
+  - Microsystem I Process Technology and Integration (ETHZ, Prof. Christofer Hierold)
+  - Microsystem II Device and Applications (ETHZ, Prof. Christofer Hierold)
 
 - Neuromorphic and Machine Learning Lectures
   - Neuromorphic Engineering (ETHZ, Prof. Tobi Delbruck)
