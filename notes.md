@@ -11,7 +11,6 @@ These are important fundamental lectures I always review and are helpful for my 
   - Energy Efficient Analog Integrated Circuits for IoT Systems (ETHZ, Prof. Taekwang Jang)
   - Communication Electronics, (ETHZ, Dr. Burger Thomas)
   - Analog-to-Digital Converter, (ETHZ, Dr. Burger Thomas)
-  - Analog Signal Processing and Filtering, (ETHZ, Prof. Hanspeter Schmid)
 
 - Digital Design Lectures
   - VLSI and FPGA (ETHZ, Prof. Luca Benini)
@@ -20,6 +19,7 @@ These are important fundamental lectures I always review and are helpful for my 
 - Signal Processing Lectures
   - Signal and System
   - Digital Signal Processing (BJTU, Prof. Houjin Chen)
+  - Analog Signal Processing and Filtering, (ETHZ, Prof. Hanspeter Schmid)
 
 - Device and Physics Lectures
   - Semiconductor Physics (FDU, Prof. Jiang Yulong)
