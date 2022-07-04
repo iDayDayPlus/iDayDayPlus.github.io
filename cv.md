@@ -18,7 +18,7 @@ Mixed-Signal Integrated Circuits Design, Bioelectronics and Biosensors, Neuromor
 
 ---
 
-- **ETH Zurich**, Zurich Switzerland, 2019-2022
+- **ETH Zurich**, Zurich, Switzerland, 2019-2022
   - Master of Science in Biomedical Engineering, GPA: 5.43/6.0 (91%), [Transcript](https://i.dayday.plus/files/eth_transcript.pdf)
      - Research direction: Analog and mixed-signal circuits design for sensor analog front-end (LNA, VGA, ADC, etc).
   - Thesis: *A Continuous-Time Input Pipelined SAR ADC With Predictive Offset Generation*
