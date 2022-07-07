@@ -23,5 +23,3 @@ title: Zhikai Huang, MSc
 - My co-author paper on event-based digital accelerator is accepted in DATE 2022 and is already online [IEEE Xplore](https://ieeexplore.ieee.org/document/9774552/)
 
 
-<a href="https://haoink.oss-cn-hangzhou.aliyuncs.com/caligraphy/zhoumo06.png">Visit W3Schools</a>
-
