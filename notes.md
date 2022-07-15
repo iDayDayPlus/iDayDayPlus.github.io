@@ -30,6 +30,9 @@ These are important fundamental lectures I always review and are helpful for my 
   - Neuromorphic Engineering (ETHZ, Prof. Tobi Delbruck)
   - Introduction to Machine Learning (ETHZ, Prof. Andreas Krause)
 
-
+.
+.
+.
+.
 
 
