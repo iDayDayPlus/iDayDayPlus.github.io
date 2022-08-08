@@ -24,6 +24,6 @@ title: Zhikai Huang, MSc
 
 
 ---
-<div align="center">
+<div align="right">
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/4.js?i=54i096pg31s&amp;m=0&amp;h=85&amp;c=ffffff&amp;r=25" async="async"></script>   
 </div>
