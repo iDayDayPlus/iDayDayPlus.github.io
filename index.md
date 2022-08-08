@@ -19,8 +19,8 @@ title: Zhikai Huang, MSc
 - Neuromorphic Computing and Maching Learning
 
 ## News
-- My master thesis *A Continuous-Time Input Pipelined SAR ADC with Predictive Offset Generation* conducted at Prof. Taekwang Jang's lab achieves a grade of 5.75/6, the second-highest possible grade at ETH Zurich.
-- My co-author paper on event-based digital accelerator is accepted in DATE 2022 and is already online [IEEE Xplore](https://ieeexplore.ieee.org/document/9774552/)
+- 2022.06.29 My master thesis *A Continuous-Time Input Pipelined SAR ADC with Predictive Offset Generation* conducted at Prof. Taekwang Jang's lab achieves a grade of 5.75/6, the second-highest possible grade at ETH Zurich.
+- 2022.04.28 My co-author paper on event-based digital accelerator is accepted in DATE 2022 and is already online [IEEE Xplore](https://ieeexplore.ieee.org/document/9774552/)
 
 
 ---
