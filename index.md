@@ -25,7 +25,6 @@ title: Zhikai Huang, MSc
 
 ---
 
-Visitors since 2022.08.08
 
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/4.js?i=54i096pg31s&amp;m=0&amp;h=85&amp;c=ffffff&amp;r=25" async="async"></script>   
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=lzmC0gK28CAH75Ce8X7NJEQn03BnfUjK_SW-kEuifjs&cl=ffffff&w=a"></script>  
 
