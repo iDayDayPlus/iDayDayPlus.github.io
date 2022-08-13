@@ -25,6 +25,6 @@ title: Zhikai Huang, MSc
 
 ---
 
-
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=lzmC0gK28CAH75Ce8X7NJEQn03BnfUjK_SW-kEuifjs&cl=ffffff&w=a"></script>  
-
+<center>
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=278&t=n&d=lzmC0gK28CAH75Ce8X7NJEQn03BnfUjK_SW-kEuifjs"></script>
+</center>
